@@ -87,7 +87,7 @@ here are the screenshots of the projects on multiple devices.
 
 ## Links
 
-- Live Site URL: [QR Code Generator - Website](https://your-live-site-url.com)
+- Live Site URL: [QR Code Generator - Website](https://qr-code-generator-app-two.vercel.app/)
 
 ## Author
 
